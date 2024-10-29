@@ -4,6 +4,7 @@ const prisma = new PrismaClient();
 
 const rawQuery = async () => {
   // const posts = await prisma.$queryRaw`SELECT * FROM POSTS`;
+
   // console.log(posts);
 
   // delete users table data
